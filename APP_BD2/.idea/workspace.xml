@@ -4,17 +4,54 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9083d42-48f7-4c8f-b916-b560ef124ba4" name="Changes" comment="cambios hechos por stiven 13/06/2023 (2.0)" />
+    <list default="true" id="e9083d42-48f7-4c8f-b916-b560ef124ba4" name="Changes" comment="14/06/2023">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/b70ed32d-9169-449a-9b0b-082edc0cf313.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mongo_java_driver_3_12_14.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/a46d70f9-0b83-4ba5-bc25-07599a939d80.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/a46d70f9-0b83-4ba5-bc25-07599a939d80.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/a46d70f9-0b83-4ba5-bc25-07599a939d80/storage_v2/_src_/database/BD_EVENTOS.4Rpswg/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/a46d70f9-0b83-4ba5-bc25-07599a939d80/storage_v2/_src_/database/BD_EVENTOS.4Rpswg/schema/public.abK9xQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APP_BD2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/APP_BD2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/APP_BD2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/APP_BD2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <list id="9adb2e80-3f60-4f64-9afc-e5bef65c0a94" name="Changes by juane" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/src/Main.java">
+      <ranges>
+        <range start1="2" end1="2" start2="2" end2="3" changelist="9adb2e80-3f60-4f64-9afc-e5bef65c0a94" />
+        <range start1="3" end1="3" start2="4" end2="12" changelist="9adb2e80-3f60-4f64-9afc-e5bef65c0a94" />
+        <range start1="6" end1="8" start2="15" end2="35" changelist="e9083d42-48f7-4c8f-b916-b560ef124ba4" />
+        <range start1="11" end1="13" start2="38" end2="107" changelist="9adb2e80-3f60-4f64-9afc-e5bef65c0a94" />
+        <range start1="14" end1="14" start2="108" end2="110" changelist="e9083d42-48f7-4c8f-b916-b560ef124ba4" />
+        <range start1="16" end1="16" start2="112" end2="127" changelist="e9083d42-48f7-4c8f-b916-b560ef124ba4" />
+      </ranges>
+    </file>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2RB6fUIBWMLebW5DBBZJTgDcFym" />
   <component name="ProjectViewState">
@@ -25,21 +62,23 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Stiven/Downloads/postgresql-42.6.0.jar&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Stiven/Downloads/jar_files/mongo-java-driver-3.12.14.jar&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
     &quot;DatabaseDriversLRU&quot;: [
-      &quot;postgresql&quot;
+      &quot;postgresql&quot;,
+      &quot;mongo&quot;
     ]
   }
 }</component>
@@ -57,7 +96,10 @@
       <option name="presentableId" value="Default" />
       <updated>1686711234356</updated>
       <workItem from="1686711235431" duration="9943000" />
-      <workItem from="1686722250831" duration="655000" />
+      <workItem from="1686722250831" duration="774000" />
+      <workItem from="1686754442116" duration="245000" />
+      <workItem from="1686754771564" duration="11214000" />
+      <workItem from="1686766156567" duration="15000" />
     </task>
     <task id="LOCAL-00001" summary="cambios hechos por stiven 13/06/2023">
       <created>1686722661117</created>
@@ -73,15 +115,36 @@
       <option name="project" value="LOCAL" />
       <updated>1686722869422</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="cambios hechos por stiven 13/06/2023 (3.0)">
+      <created>1686722956672</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1686722956672</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="cambios hechos por stiven 13/06/2023" />
     <MESSAGE value="cambios hechos por stiven 13/06/2023 (2.0)" />
-    <option name="LAST_COMMIT_MESSAGE" value="cambios hechos por stiven 13/06/2023 (2.0)" />
+    <MESSAGE value="Cambios hechos juanes y stiven 14/06/2023" />
+    <MESSAGE value="cambios hechos por stiven 13/06/2023 (3.0)" />
+    <MESSAGE value="14/06/2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="14/06/2023" />
   </component>
 </project>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="EVENTOS DB MONGO">
+  <database-model serializer="dbm" dbms="MONGO" family-id="MONGO" format-version="4.45">
+    <root id="1">
+      <ServerVersion>4.0.28</ServerVersion>
+    </root>
+    <schema id="2" parent="1" name="BD_EVENTOS">
+      <Current>1</Current>
+    </schema>
+    <schema id="3" parent="1" name="BaseDatos2DataSet"/>
+    <schema id="4" parent="1" name="admin"/>
+    <schema id="5" parent="1" name="config"/>
+    <schema id="6" parent="1" name="local"/>
+    <schema id="7" parent="1" name="video"/>
+    <table id="8" parent="2" name="AREAS"/>
+    <table id="9" parent="2" name="CIUDADES"/>
+    <table id="10" parent="2" name="DEPARTAMENTOS"/>
+    <table id="11" parent="2" name="EMPLEADOS"/>
+    <table id="12" parent="2" name="FACULTADES"/>
+    <table id="13" parent="2" name="PAISES"/>
+    <table id="14" parent="2" name="PROGRAMAS"/>
+    <table id="15" parent="2" name="SEDES"/>
+    <table id="16" parent="2" name="TIPOS_CONTRATACION"/>
+    <table id="17" parent="2" name="TIPOS_EMPLEADOS"/>
+  </database-model>
+</dataSource>
